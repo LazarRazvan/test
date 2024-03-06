@@ -3,6 +3,7 @@
 void my_print(void)
 {
 	printf("%s\n", __func__);
+	printf("My custom hello world!\n");
 }
 
 int main()
