@@ -2,7 +2,7 @@
 
 void my_print(void)
 {
-	printf("%s\n", __func__);
+	printf("Catalin!\n");
 }
 
 int main()
